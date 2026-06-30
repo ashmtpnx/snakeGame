@@ -1,2 +1,1 @@
-# snakeGame
-My take on the classic Snake game, written in C as a learning project...
+A classic Snake game written in C using the ncurses library for terminal rendering, featuring a toggleable AI mode that plays automatically using a greedy Manhattan-distance pathfinding algorithm. Build with gcc main.c -o snake -lncurses and run with ./snake. Use the arrow keys to move (Player mode), A to toggle AI mode, R to restart, and Q to quit.
