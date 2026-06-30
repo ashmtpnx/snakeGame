@@ -1,0 +1,8 @@
+# Install ncurses (one-time)
+sudo apt install libncurses5-dev
+
+# Compile
+gcc main.c -o main -lncurses
+
+# Run
+./main
