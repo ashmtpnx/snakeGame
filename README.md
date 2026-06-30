@@ -1,4 +1,4 @@
-# Snake Game (C + ncurses)
+# The Snake Game (C + ncurses)
 
 A classic Snake game written in C using the `ncurses` library for terminal rendering, with a built-in AI mode that plays the game for you using a greedy pathfinding algorithm.
 
